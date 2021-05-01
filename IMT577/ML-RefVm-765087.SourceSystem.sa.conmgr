@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ML-RefVm-765087.SourceSystem.sa"
+  DTS:DTSID="{6FA3FD7B-DEC4-4A3C-868D-E912F3BCB30F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ML-RefVm-765087;User ID=sa;Initial Catalog=SourceSystem;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAACAAAAAAAQZgAAAAEAACAAAAC2304x6im8HmvTIvAY/V9gKrDq9BmfYkfvg7expChlSgAAAAAOgAAAAAIAACAAAAAAseUv2Xp5Xgvm+466/Ca70K60fFWpIfEe2i8ZbXqxDIAAAAAQcasrf2GUcaqRDdNjDwLGGpXkF1/Kaemf1m2r1FfcCtG/IlZXFbGyDz6UHP0Yl555OV88FFpOaFjtGd7FQLLqTkIfiytrnYeoYTcCoLE4Gt+CZcb5gXif5mNkknfFITUo6BG3q/DIZVIBtfOjIHg5WO3uTL9ld0y8miag2cIg8kAAAADfo5H5Go3MYGKkrYHv8KrSFaEjd5QneREKwXeSWWBraqHuOkSDiS1Oe663T0hKHHdlDBKQMJxNALKxIDhgnfkO</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
